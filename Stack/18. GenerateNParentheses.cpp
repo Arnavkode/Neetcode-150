@@ -35,5 +35,5 @@ public:
 
 int main(){
 
-	generateNParentheses(3);
+    cout<<"working";
 }
